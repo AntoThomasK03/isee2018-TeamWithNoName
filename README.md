@@ -1,7 +1,7 @@
-# TeamWithNoName Android Development Blog
-* Colors <ul>
-  * Blue ### Team members
-      </ul>
+# TeamWithNoName Android Development
+* Colors
+ * Blue
+### Team members
 
   #### Sharath Chandra Siluveru
   #### Laxman Pachika
