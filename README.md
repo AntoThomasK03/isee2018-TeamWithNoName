@@ -1,5 +1,8 @@
 # TeamWithNoName Android Development Blog
-<li>blue</li> ### Team members  <li>blue</li>
+* Colors <ul>
+  * Blue ### Team members
+      </ul>
+
   #### Sharath Chandra Siluveru
   #### Laxman Pachika
   #### Venkat Reddy Katkoor
