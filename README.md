@@ -1,2 +1,5 @@
 # isee2018-TeamWithNoName
-repository of Team With No Name
+#Team members 
+   Sharath Chandra Siluveru
+   Laxman Pachika
+   Venkat Reddy Katkoori
