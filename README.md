@@ -1,5 +1,5 @@
 # TeamWithNoName Android Development
-### <ul class="Team members">
+### Team members
 
   #### Sharath Chandra Siluveru
   #### Laxman Pachika
