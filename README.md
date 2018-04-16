@@ -2,4 +2,4 @@
 #Team members 
   ### Sharath Chandra Siluveru
   ### Laxman Pachika
-  ### Venkat Reddy Katkoori
+  ### Venkat Reddy Katkoor
