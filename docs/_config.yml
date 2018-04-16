@@ -1,5 +1,5 @@
 name: ISEE 2018
 markdown: kramdown
-baseurl: "https://github.com/DBSE-teaching/TeamWithNoName"
+baseurl: TeamWithNoName
 permalink: /blog/:year/:month/:day/:title/
 theme: jekyll-theme-dinky
