@@ -1,9 +1,9 @@
-# isee2018-TeamWithNoName
-#Team members 
-  ### Sharath Chandra Siluveru
-  ### Laxman Pachika
-  ### Venkat Reddy Katkoor
-  ### Sneha Gulab Mane
+# TeamWithNoName Android Development Blog
+### Team members 
+  #### Sharath Chandra Siluveru
+  #### Laxman Pachika
+  #### Venkat Reddy Katkoor
+  #### Sneha Gulab Mane
   
   
   
