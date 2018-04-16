@@ -3,5 +3,11 @@
   ### Sharath Chandra Siluveru
   ### Laxman Pachika
   ### Venkat Reddy Katkoor
-  <img src="isee2018-TeamWithNoName/docs/images/phdcomic-deadlines.gif" alt="Logo"/>
+ 
+ ![alt text](https://github.com/DBSE-teaching/isee2018-TeamWithNoName/blob/master/docs/images/8251.jpg "Logo Title Text 1")
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/DBSE-teaching/isee2018-TeamWithNoName/blob/master/docs/images/8251.jpg "Logo Title Text 2"
   
