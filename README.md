@@ -25,6 +25,10 @@ Our goal as is to work together and to Learn and adapt the changing circumstance
 The app would track all the day to day activities of the user and help the user to be better organized.
 Further features will be updated after the intial metting with customer as per the customer requirements.
 
+### Complememtory Skills:
+As all team members are new to app development, but every one has first hand experince in working together as a team. We are very enthusiasticto learn which will be a great assist to our team.
+Every team member has their own set of skill on which we have divided our work load so that very work would bring their best for this project.
+
   
   
  
