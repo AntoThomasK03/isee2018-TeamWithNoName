@@ -11,7 +11,7 @@
   #### Sneha Gulab Mane
   
 ### Motivation
- #### This project woulb be an great baby steps for the students like us who have zero experience in the field of IT and can learn how the team works in the IT project so that it woulb come in handy further down the road. 
+ This project woulb be an great baby steps for the students like us who have zero experience in the field of IT and can learn how the team works in the IT project so that it woulb come in handy further down the road. 
  
  ## Team Logo
   
