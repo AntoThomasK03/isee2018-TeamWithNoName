@@ -31,11 +31,12 @@ Every team member has their own set of skill on which we have divided our work l
 
 ### Communication:
 One of the key factor to work as a team is communication between the team members and the customer. To improve our efficiency we are following certain steps.
-* We have a whatsapp group which is easily accessible and every is available to discuss.
-* We scheduled our meetings based on availability of all our team members
-* As we are staying closer, so we can easily gather and discuss when it is necessary 
-* We are using Github where we are guided by our professor 
-* We are also using google drive, Email for information transfer
+* We have a whatsapp group where quick short mesages and suggestions are shared between team menbers.
+* We scheduled our meetings based on availability of all our team members as of now twice a week.
+* Every week the customer gets upadted on the progress and any changes are made as per the customer requirements.
+* As we are staying closer, so we can easily gather and discuss when it is necessary. 
+* We are using Github so that every one can work on their own time and assemble it as a team. 
+* We are also using google drive, Email for information transfer.
 
 
   
