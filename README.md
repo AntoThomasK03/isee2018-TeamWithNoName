@@ -16,6 +16,8 @@
   
   ## Goal
   #### Our project goal is to Develop an android app which can be easily accessed by an individual and monitor his schedule in an efficient way(ACTIVITY MONITOR).
+  #### Our goal as is to work together and to Learn and adapt the changing circumstances and customer requirements as the project continues further.
+  
   
   
  
