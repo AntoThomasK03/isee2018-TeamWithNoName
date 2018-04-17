@@ -32,13 +32,13 @@ Every team member has their own set of skill on which we have divided our work l
 ### Roles 
 As of now temperoraily each team menber has been assigned a set of tasks
 
-1.Laxman Reddy Pachika  -->           **Team Coordination and Programming**
+1.Laxman Reddy Pachika        **Team Coordination and architecture**
 
-2.Venakt Reddy Katkoor     -->       **Blogs and Testing**
+2.Venakt Reddy Katkoor         **Blogs and Testing**
 
 3.Sharath Chandra Siluveru        **GUI and Implemantation**          
 
-4.Sneha Gulab Mane                **System design and Databases**       
+4.Sneha Gulab Mane                **documentation and Databases**       
 
 Apart from these every work works together where datatbase integration is required.
 
