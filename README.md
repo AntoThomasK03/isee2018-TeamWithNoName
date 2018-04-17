@@ -1,4 +1,7 @@
 # TeamWithNoName Android Development
+
+#### Hello all,
+#### Welcome to our team´s Blog. We are TeamWithNoName. Introducing ourselves in this Initial Blog post of ISEE in summer 2018. 
 ### Team members
 
   #### Sharath Chandra Siluveru
@@ -9,6 +12,8 @@
   ## Team Logo
   
   ![alt text](https://github.com/DBSE-teaching/isee2018-TeamWithNoName/blob/master/docs/images/8251.jpg "Logo Title Text 1")
+  
+  
  
 
 
