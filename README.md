@@ -22,7 +22,9 @@ Our project goal is to Develop an android app which can be easily accessed by an
 Our goal as is to work together and to Learn and adapt the changing circumstances and customer requirements as the project continues further.
   
   ### Brief introduction about app
-  #### 
+The app would track all the day to day activities of the user and help the user to be better organized.
+Further features will be updated after the intial metting with customer as per the customer requirements.
+
   
   
  
