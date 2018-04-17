@@ -10,8 +10,8 @@ Welcome to our team´s Blog. We are TeamWithNoName. Introducing ourselves in thi
   #### Venkat Reddy Katkoor
   #### Sneha Gulab Mane
   
-### Motivation
- This project woulb be an great baby steps for the students like us who have zero experience in the field of IT and can learn how the team works in the IT project so that it woulb come in handy further down the road. 
+### Why this course/Project for us?
+ This project woulb be an great baby steps for the students like us from a mechanical engineering background who have zero experience in the field of IT and can learn how the team works in the IT project so that it woulb come in handy further down the road. 
  
  ## Team Logo
   
