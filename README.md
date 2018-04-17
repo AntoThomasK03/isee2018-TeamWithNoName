@@ -38,6 +38,8 @@ One of the key factor to work as a team is communication between the team member
 * We are using Github so that every one can work on their own time and assemble it as a team. 
 * We are also using google drive, Email for information transfer.
 
+![alt text](https://github.com/DBSE-teaching/isee2018-TeamWithNoName/blob/master/docs/images/PLAN.jpg)
+
 
   
   
