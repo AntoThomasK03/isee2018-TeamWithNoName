@@ -1,7 +1,7 @@
-# TeamWithNoName Android Development
+# TeamWithNoName Android Development Blog
 
-#### Hello all,
-#### Welcome to our team´s Blog. We are TeamWithNoName. Introducing ourselves in this Initial Blog post of ISEE in summer 2018. 
+Hello all,
+Welcome to our team´s Blog. We are TeamWithNoName. Introducing ourselves in this Initial Blog post of ISEE in summer 2018. 
 
 ### Team members 
 
