@@ -11,7 +11,7 @@ Welcome to our team´s Blog. We are TeamWithNoName. Introducing ourselves in thi
   #### Sneha Gulab Mane
   
 ### Why this course/Project for us?
- This project woulb be an great baby steps for the students like us from a mechanical engineering background who have zero experience in the field of IT and can learn how the team works in the IT project so that it woulb come in handy further down the road. 
+ This project woulb be an great baby steps for the students like us from a mechanical engineering background who have zero experience in the field of IT and can learn how the team works in the IT project so that it woulb come in handy further down the road. And moreover activity monitor is a thing which we can closely relate to as keeping track of your time might do some good afterall.
  
  ## Team Logo
   
@@ -29,6 +29,17 @@ Further features will be updated after the intial metting with customer as per t
 As all team members are new to app development, but every one has first hand experince in working together as a team. We are very enthusiasticto learn which will be a great assist to our team.
 Every team member has their own set of skill on which we have divided our work load so that very work would bring their best for this project.
 
+### Roles 
+As of now temperoraily each team menber has been assigned a set of tasks
+1. Laxman Reddy Pachika        Team Coordination and Programming
+2. Venakt Reddy Katkoor        Blogs and Testing
+3. Sharath Chandra Siluveru    GUI and Implemantation
+4.Sneha Gulab Mane             System design and Databases
+
+Apart from these every work works together where datatbase integration is required.
+
+![alt text](https://github.com/DBSE-teaching/isee2018-TeamWithNoName/blob/master/docs/images/PLAN.jpg)
+
 ### Communication:
 One of the key factor to work as a team is communication between the team members and the customer. To improve our efficiency we are following certain steps.
 * We have a whatsapp group where quick short mesages and suggestions are shared between team menbers.
@@ -38,7 +49,7 @@ One of the key factor to work as a team is communication between the team member
 * We are using Github so that every one can work on their own time and assemble it as a team. 
 * We are also using google drive, Email for information transfer.
 
-![alt text](https://github.com/DBSE-teaching/isee2018-TeamWithNoName/blob/master/docs/images/PLAN.jpg)
+
 
 
   
