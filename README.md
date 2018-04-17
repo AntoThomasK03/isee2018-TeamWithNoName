@@ -31,8 +31,8 @@ Every team member has their own set of skill on which we have divided our work l
 
 ### Roles 
 As of now temperoraily each team menber has been assigned a set of tasks
-|Name                             | Role                              |
-|---------------------------------|----------------------------------:|
+|  Name                             | Role                              |
+|---------------------------------|:----------------------------------:|
 | Laxman Reddy Pachika            | Team Coordination and Programming |
 | Venakt Reddy Katkoor            | Blogs and Testing                 |
 | Sharath Chandra Siluveru        | GUI and Implemantation            |
