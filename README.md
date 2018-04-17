@@ -2,7 +2,7 @@
 
 #### Hello all,
 #### Welcome to our team´s Blog. We are TeamWithNoName. Introducing ourselves in this Initial Blog post of ISEE in summer 2018. 
-### Team members
+<em> ### Team members </em>
 
   #### Sharath Chandra Siluveru
   #### Laxman Pachika
