@@ -28,7 +28,7 @@ Further features will be updated after the intial metting with customer as per t
 As all team members are new to app development, but every one has first hand experince in working together as a team. We are very enthusiastic to learn which will be a great asset to our team.
 Every team member has their own set of skill on which we have divided our work load so that very work would bring their best for this project.
 
-</h2> Roles</h2> 
+<h2> Roles</h2> 
 As of now temperoraily each team menber has been assigned a set of tasks
 
 1.Laxman Reddy Pachika        **Team Coordination and architecture**
