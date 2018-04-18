@@ -1,14 +1,13 @@
-# TeamWithNoName Android Development Blog
 
 Hello all,
 Welcome to our team´s Blog. We are TeamWithNoName. Introducing ourselves in this Initial Blog post of ISEE in summer 2018. 
 
-<h3>Team members</h3> 
+<h2>Team members</h2> 
 
-  #### Sharath Chandra Siluveru
-  #### Laxman Reddy Pachika
-  #### Venkat Reddy Katkoor
-  #### Sneha Gulab Mane
+  <h3> Sharath Chandra Siluveru</h3>
+  <h3> Laxman Reddy Pachika</h3>
+  <h3> Venkat Reddy Katkoor</h3>
+  <h3> Sneha Gulab Mane</h3>
   
 ### Why this course/Project for us?
  This project woulb be great baby steps for the students like us from a mechanical engineering background who have zero experience in the field of IT and can learn how the team works in the IT project so that it woulb come in handy further down the road. And moreover activity monitor is a thing which we can closely relate to as keeping track of your time might do some good afterall.
