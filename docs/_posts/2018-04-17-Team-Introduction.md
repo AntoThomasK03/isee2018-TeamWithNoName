@@ -16,11 +16,11 @@ Welcome to our team´s Blog. We are TeamWithNoName. Introducing ourselves in thi
   
   ![alt text](https://github.com/DBSE-teaching/isee2018-TeamWithNoName/blob/master/docs/images/8251.jpg)
   
-  <h2> Goal </h2>
+<h2> Goal </h2>
 Our project goal is to develop an android app which can be easily accessed by an individual and monitor his schedule in an efficient way(ACTIVITY MONITOR).
 Our goal as team is to work together and to Learn and adapt the changing circumstances and customer requirements as the project continues further.
   
-  <h2>Brief introduction about app</h2>
+<h2>Brief introduction about app</h2>
 The app would track all the day to day activities of the user and help the user to be better organized.
 Further features will be updated after the intial metting with customer as per the customer requirements.
 
