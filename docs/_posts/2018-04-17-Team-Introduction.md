@@ -13,7 +13,8 @@ Welcome to our team´s Blog. We are TeamWithNoName. Introducing ourselves in thi
  This project woulb be great baby steps for the students like us from a mechanical engineering background who have zero experience in the field of IT and can learn how the team works in the IT project so that it woulb come in handy further down the road. And moreover activity monitor is a thing which we can closely relate to as keeping track of your time might do some good afterall.
  
  <h2>Team Logo</h2>
-![alt text](https://github.com/DBSE-teaching/isee2018-TeamWithNoName/blob/master/docs/images/8251.jpg "Logo Title Text 1")
+ 
+![alt text](https://github.com/DBSE-teaching/isee2018-TeamWithNoName/blob/master/docs/images/8251.jpg)
   
 <h2> Goal </h2>
 Our project goal is to develop an android app which can be easily accessed by an individual and monitor his schedule in an efficient way(ACTIVITY MONITOR).
