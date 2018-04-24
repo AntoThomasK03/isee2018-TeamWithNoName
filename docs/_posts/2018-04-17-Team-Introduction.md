@@ -14,7 +14,8 @@ Welcome to our team´s Blog. We are TeamWithNoName. Introducing ourselves in thi
  
  <h2>Team Logo</h2>
  
-![alt text](https://github.com/DBSE-teaching/isee2018-TeamWithNoName/blob/master/docs/images/logo.png)
+
+![Deadline image]({{site.baseurl}}/images/logo.png "logo")
 
 
   
@@ -43,7 +44,7 @@ As of now temperoraily each team menber has been assigned a set of tasks
 
 Apart from these every work works together where datatbase integration is required.
 
-![alt text](https://github.com/DBSE-teaching/isee2018-TeamWithNoName/blob/master/docs/images/PLAN.jpg "Logo Title Text 1")
+![Deadline image]({{site.baseurl}}/images/plan.png "Plan")
 
 <h2>Communication</h2>
 One of the key factor to work as a team is communication between the team members and the customer. To improve our efficiency we are following certain steps.
