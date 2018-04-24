@@ -15,8 +15,7 @@ Welcome to our team´s Blog. We are TeamWithNoName. Introducing ourselves in thi
  <h2>Team Logo</h2>
  
 ![alt text](https://github.com/DBSE-teaching/isee2018-TeamWithNoName/blob/master/docs/images/logo.png)
-<img src="/DBSE-teaching/isee2018-TeamWithNoName/blob/master/docs/images/logo.png" alt="Alt text"/>
-![Deadline image]({{site.baseurl}}/images/logo.png "logo")
+
 
   
 <h2> Goal </h2>
