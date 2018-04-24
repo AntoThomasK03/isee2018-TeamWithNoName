@@ -44,7 +44,7 @@ As of now temperoraily each team menber has been assigned a set of tasks
 
 Apart from these every work works together where datatbase integration is required.
 
-![Deadline image]({{site.baseurl}}/images/plan.png "Plan")
+![Deadline image]({{site.baseurl}}/images/PLAN.png "Plan")
 
 <h2>Communication</h2>
 One of the key factor to work as a team is communication between the team members and the customer. To improve our efficiency we are following certain steps.
