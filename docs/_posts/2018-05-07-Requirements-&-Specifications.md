@@ -48,5 +48,7 @@ Welcome to our second blog of our project. In the intial blog we introduced our 
 <br>•	As a user, I should be able to edit my data and easy to access.</br>
 
 <h1>Use Case Diagram</h1>
+![Deadline image]({{site.baseurl}}/images/usecase.png "usecase")
+
 
 <h1></h1>
