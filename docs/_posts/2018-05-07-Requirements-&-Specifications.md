@@ -11,7 +11,7 @@ In the initial meetings with the customer we have discussed back and forth with 
 3.Nice to have  features
 <h3>1.Essential requirements</h3>
 These are the basic and the must have features for the application to work as per customer specifications
-* Application should work offline.
+<h4>* Application should work offline.</h4>
 * Apllication should store data atleast for the past six months.
 * Application should be password/PIN protected.
 * The data should be entered manually whenever the user desires.
