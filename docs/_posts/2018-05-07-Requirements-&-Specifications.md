@@ -1,5 +1,23 @@
 Welcome to our second blog of our project. In the intial blog we introduced our team and the purposes. In this blog we are going to discuss further development about our android application "Time Tracker" which is bascially an activity monitor. 
 <h2>Overview</h2>
+The requirements is divided into two phases
+1.Gathering Customer Requirements
+2.Requirements Analysis
+
+<h2>Customer Requirements</h2>
+In the initial meetings with the customer we have discussed back and forth with the customer and got to know his specific requirements and further classified into three categories
+1.Essential requirements
+2.Necessary requirements
+3.Nice to have  features
+<h3>1.Essential requirements</h3>
+These are the basic and the must have features for the application to work as per customer specifications
+* Application should work offline.
+* Apllication should store data atleast for the past six months.
+* Application should be password/PIN protected.
+* The data should be entered manually whenever the user desires.
+* The activity should have the categories so the user can distinguish between personla and professional activity.
+
+<h3>2.Necessary Requirements</h3>
 
 
 
@@ -10,17 +28,6 @@ Welcome to our second blog of our project. In the intial blog we introduced our 
 
 
 
-
-<h2>Requirements</h2>
-
-
-
-
-
-
-
-
-<h2>Specifications</h2>
 
 
 
@@ -44,7 +51,7 @@ Welcome to our second blog of our project. In the intial blog we introduced our 
 <br>•	As a user, I want my app to be attractive and eye catchy.
 <br>•	As a user, I should be able to edit my data and easy to access.
 
-<h1>Use Case Diagram</h1>
+<h2>Use Case Diagram</h2>
 ![Deadline image]({{site.baseurl}}/images/usecase.png "usecase")
 
 
