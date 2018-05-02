@@ -33,7 +33,7 @@ Welcome to our second blog of our project. In the intial blog we introduced our 
 
 
 
-<h3>User Views:</h3>
+<h1>User Views:</h1>
 
 <br>•	As a user, I want an application to track all my daily activities and schedule my daily plan efficiently.</br>
 <br>•	As a user, I want to mainly categorize my activities as professional, sports and daily routines.</br>
