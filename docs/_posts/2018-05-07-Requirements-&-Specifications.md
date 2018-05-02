@@ -1,4 +1,3 @@
-05 May 2018
 <h1>Blog-02: Requirements And Specifications</h1>
 Welcome to our second blog of our project. In the intial blog we introduced our team and the purposes. In this blog we are going to discuss about our android application "Activity Monitor". 
 <h1>Overview</h1>
