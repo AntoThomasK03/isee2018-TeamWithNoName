@@ -6,19 +6,19 @@ The requirements is divided into two phases
 
 <h2>Customer Requirements</h2>
 In the initial meetings with the customer we have discussed back and forth with the customer and got to know his specific requirements and further classified into three categories
-1.Essential requirements
-2.Necessary requirements
-3.Nice to have  features
+<br>1.Essential requirements
+<br>2.Necessary requirements
+<br>3.Nice to have  features
 <h3>1.Essential requirements</h3>
 These are the basic and the must have features for the application to work as per customer specifications
-<br>•Application should work offline.
+<br>• Application should work offline.
 <br>• Apllication should store data atleast for the past six months.
 <br>• Application should be password/PIN protected.
 <br>• The data should be entered manually whenever the user desires.
 <br>• The activity should have the categories so that the user can distinguish between personal and professional activity.
 
 <h3>2.Necessary Requirements</h3>
-<br>• Application should be able to filter the past data/historz as per user desired weeklz or monthly.
+<br>• Application should be able to filter the past data/history as per user desired weekly or monthly.
 <br>• The data shoulb be displayed in bar graph form and can be viewed in text form if further required.
 <br>• The user should have the freedom to import and export data from other mobile phones or Email.
 <br>• Application should send a monthy report to the user Email if the user desires.
