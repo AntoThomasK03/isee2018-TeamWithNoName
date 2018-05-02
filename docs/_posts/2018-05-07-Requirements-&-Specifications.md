@@ -1,7 +1,7 @@
 
 <h3>User Views:</h3>
 
-•	As a user, I want an application to track all my daily activities and schedule my daily plan efficiently.
+<br>•	As a user, I want an application to track all my daily activities and schedule my daily plan efficiently.</br>
 •	As a user, I want to mainly categorize my activities as professional, sports and daily routines.
 •	As a user, I want to save some information or my activities for future and don’t want store the unsaved data no longer than 6 months.
 •	As a user, I want to customise categories on my own, so that additional information can be stored if required.
