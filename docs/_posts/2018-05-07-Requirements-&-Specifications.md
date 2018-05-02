@@ -18,16 +18,16 @@ These are the basic and the must have features for the application to work as pe
    - The activity should have the categories so that the user can distinguish between personal and professional activity.
 
 <h3>2.Necessary Requirements</h3>
-..* Application should be able to filter the past data/historz as per user desired weeklz or monthly.
-..* The data shoulb be displayed in bar graph form and can be viewed in text form if further required.
-..* The user should have the freedom to import and export data from other mobile phones or Email.
-..* Application should send a monthy report to the user Email if the user desires.
++ Application should be able to filter the past data/historz as per user desired weeklz or monthly.
++ The data shoulb be displayed in bar graph form and can be viewed in text form if further required.
++ The user should have the freedom to import and export data from other mobile phones or Email.
++ Application should send a monthy report to the user Email if the user desires.
 
 <h3>3.Nice to have Features</h3>
-..* Push notification if the user does the same activity at same time for more than 10 consecutive days.
-..* Saving the location of the activity using inbuilt GPS.
-..* Freedom to take the pictures of the activity.
-..* User can plan the goals with in the application.
++ Push notification if the user does the same activity at same time for more than 10 consecutive days.
++ Saving the location of the activity using inbuilt GPS.
++ Freedom to take the pictures of the activity.
++ User can plan the goals with in the application.
 
 
 
