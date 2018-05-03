@@ -1,10 +1,8 @@
 Welcome to our second blog of our project. In the intial blog we introduced our team and the purposes. In this blog we are going to discuss further development about our android application. We choose the "Time Tracker" for our application which is bascially an activity monitor. 
 <h2>Overview</h2>
 The requirements is divided into two phases
-
-1.Gathering Customer Requirements
-
-2.Requirements Analysis
+<br>1.Gathering Customer Requirements
+<br>2.Requirements Analysis
 
 <h2>Customer Requirements</h2>
 In the initial meetings with the customer we have discussed back and forth with the customer and got to know his specific requirements and further classified into three categories
