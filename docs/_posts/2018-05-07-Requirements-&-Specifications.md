@@ -1,4 +1,4 @@
-Welcome to our second blog of our project. In the intial blog we introduced our team and the purposes. In this blog we are going to discuss further development about our android application "Time Tracker" which is bascially an activity monitor. 
+Welcome to our second blog of our project. In the intial blog we introduced our team and the purposes. In this blog we are going to discuss further development about our android application. We choose the "Time Tracker" for our application which is bascially an activity monitor. 
 <h2>Overview</h2>
 The requirements is divided into two phases
 1.Gathering Customer Requirements
