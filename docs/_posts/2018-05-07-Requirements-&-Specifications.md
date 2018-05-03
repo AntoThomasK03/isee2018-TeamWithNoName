@@ -16,12 +16,13 @@ These are the basic and the must have features for the application to work as pe
 <br>• Application should be password/PIN protected.
 <br>• The data should be entered manually whenever the user desires.
 <br>• The activity should have the categories so that the user can distinguish between personal and professional activity.
-
+<br>• The activities are to be colour coded so that user can have ease of use.
 <h3>2.Necessary Requirements</h3>
 <br>• Application should be able to filter the past data/history as per user desired weekly or monthly.
 <br>• The data shoulb be displayed in bar graph form and can be viewed in text form if further required.
 <br>• The user should have the freedom to import and export data from other mobile phones or Email.
-<br>• Application should send a monthy report to the user Email if the user desires.
+<br>• Application should send a weekly report to the user Email if the user desires.
+<br>• Application should be password/PIN protected.
 
 <h3>3.Nice to have Features</h3>
 <br>• Push notification if the user does the same activity at same time for more than 10 consecutive days.
