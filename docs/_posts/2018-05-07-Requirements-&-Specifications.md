@@ -3,6 +3,7 @@ Welcome to our second blog of our project. In the intial blog we introduced our 
 The requirements is divided into two phases
 
 1.Gathering Customer Requirements
+
 2.Requirements Analysis
 
 <h2>Customer Requirements</h2>
