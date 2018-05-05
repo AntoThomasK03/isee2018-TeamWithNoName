@@ -10,7 +10,8 @@ In the initial meetings with the customer we have discussed back and forth with 
 <br>2.Necessary requirements
 <br>3.Nice to have  features
 <h3>1.Essential requirements</h3>
-These are the basic and the must have features for the application to work as per customer specifications
+These are the basic and the must have features for the application to work as per 
+      customer specifications
 <br>• Application should work offline.
 <br>• Apllication should store data atleast for the past six months.
 <br>• Application should be password/PIN protected.
