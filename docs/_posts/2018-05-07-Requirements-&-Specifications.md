@@ -14,12 +14,11 @@ These are the basic and the must have features for the application to work as pe
       customer specifications
 <br>• Application should work offline.
 <br>• Apllication should store data atleast for the past six months.
-<br>• Application should be password/PIN protected.
 <br>• The data should be entered manually whenever the user desires.
 <br>• The activity should have the categories so that the user can distinguish between personal and professional activity.
 <br>• The activities are to be colour coded so that user can have ease of use.
-<h3>2.Necessary Requirements</h3>
 <br>• Application should be able to filter the past data/history as per user desired weekly or monthly.
+<h3>2.Necessary Requirements</h3>
 <br>• The data shoulb be displayed in bar graph form and can be viewed in text form if further required.
 <br>• The user should have the freedom to import and export data from other mobile phones or Email.
 <br>• Application should send a weekly report to the user Email if the user desires.
