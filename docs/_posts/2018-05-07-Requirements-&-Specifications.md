@@ -48,7 +48,8 @@ These are the basic and the must have features for the application to work as pe
 
 
 
-
+<h2>Requirements Analysis</h2>
+ We placed ourselves in the user shoes and analyzed the customer requirements what and why are the requirements important and we came up with few user stories.
 
 <h2>User Stories</h2>
 
