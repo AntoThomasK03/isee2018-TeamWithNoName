@@ -1,4 +1,5 @@
-Welcome to our second blog of our project. In the intial blog we introduced our team and the purposes. In this blog we are going to discuss further development about our android application. We choose the "Time Tracker" for our application which is bascially an activity monitor. 
+Welcome to our second blog of our project. In the intial blog we introduced our team and the purposes. In this blog we are going to discuss further development about our android application. 
+We choose the title "Time Tracker" for our application which is bascially an activity monitor. 
 <h2>Overview</h2>
 The requirements is divided into two phases
 <br>1.Gathering Customer Requirements
@@ -30,24 +31,6 @@ These are the basic and the must have features for the application to work as pe
 <br>• Freedom to take the pictures of the activity.
 <br>• User can plan the goals with in the application.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <h2>Requirements Analysis</h2>
  We placed ourselves in the user shoes and analyzed the customer requirements what and why are the requirements important and we came up with few user stories.
 
@@ -55,14 +38,19 @@ These are the basic and the must have features for the application to work as pe
 
 <br>•	As a user, I want an application to track all my daily activities and schedule my daily plan efficiently.
 <br>•	As a user, I want to mainly categorize my activities as professional, sports and daily routines.
-<br>•	As a user, I want to save some information or my activities for future and don’t want store the unsaved data no longer than 6 months.
-<br>•	As a user, I want to customise categories on my own, so that additional information can be stored if required.
-<br>•	As a user, I want to comment on my all my activities.
+<br>•	As a user, I want to save some information or my activities for future and don’t want store no longer than 6 months to minimize space useage.
+<br>•	As a user, I want to customise categories on my own as possiblily the developers cannot think of every posssible activity of an individual.
+<br>•	As a user, I would like to have acess to my app even when there is no internet service.
+<br>•	As a user, I would ike to enter my data manually as this keeps track of my past time and this is not a scheduler/calendar.
 <br>•	As a user, I want to secure my application, using a pin.
-<br>•	As a user, I would like to export my data via email or import from a previous mobile phone.
-<br>•	As a user, I want my application to notify me on my regular activities, which I should choose.
-<br>•	As a user, I want my app to be attractive and eye catchy.
-<br>•	As a user, I should be able to edit my data and easy to access.
+<br>•	As a user, I would like to export/import data between androids phones.
+<br>•	As a user, I want my application to notify me on my regular activities, so that I need not to enter everyday.
+<br>•	As a user, I want my app to display various activities in different colours for ease of use..
+<br>•	As a user, I should be able to edit my data and easy to ready like a pictorial representation of graph/bar/pie chart.
+<br>•	As a user, I want to filter my history depending on time frame/type of activity.
+<br>•	As a user, It would be nice have activity data updated to me weekly via Email automatically.
+<br>•	As a user, It would be good to have the pictures and location of my activity if I desire.
+
 
 <h2>Wrong Assumptions</h2>
 We left couple of things in the plain sight, realized and identified these wrong assumptions later.
