@@ -53,6 +53,7 @@ These are the basic and the must have features for the application to work as pe
 
 Down below is the simple description of user stories same as above.
 ![Deadline image]({{site.baseurl}}/images/userstories.png "userstories")
+Based on customer requirements  and user stories we have prioritized requirements. Where 3 stars mean absolute necessary and need for basic functionality. A 2 star means it would ease the use of application and a single star features will be integrated when the app is 100% done and running perfectly.
 
 
 <h2>Wrong Assumptions</h2>
