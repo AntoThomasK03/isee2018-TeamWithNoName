@@ -65,5 +65,7 @@ We left a couple of things in the plain sight, realized and identified these wro
 <h2>Use Case Diagram</h2>
 ![Deadline image]({{site.baseurl}}/images/usecase.png "usecase")
 
+In our next blog post, we would explain more about the system design.
+
 
 
