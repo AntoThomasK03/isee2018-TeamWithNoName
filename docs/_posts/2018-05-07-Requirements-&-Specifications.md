@@ -64,6 +64,13 @@ These are the basic and the must have features for the application to work as pe
 <br>•	As a user, I want my app to be attractive and eye catchy.
 <br>•	As a user, I should be able to edit my data and easy to access.
 
+<h2>Wrong Assumptions</h2>
+We left couple of things in the plain sight, realized and identified these wrong assumptions later.
+<br>• We comprehended the app should be  similar to calendar but a complex but realized its not after the secong meeting with customer.
+<br>• We assumed the app should be online like most of the apps today.
+<br>• Colour coding has never crossed our mind and later realized its importance.
+
+
 <h2>Use Case Diagram</h2>
 ![Deadline image]({{site.baseurl}}/images/usecase.png "usecase")
 
