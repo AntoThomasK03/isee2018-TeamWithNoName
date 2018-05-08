@@ -51,6 +51,9 @@ These are the basic and the must have features for the application to work as pe
 <br>•	As a user, It would be nice have activity data updated to me weekly via Email automatically.
 <br>•	As a user, It would be good to have the pictures and location of my activity if I desire.
 
+Downbelow is the simple description of user stories same as above.
+![Deadline image]({{site.baseurl}}/images/userstories.png "userstories")
+
 
 <h2>Wrong Assumptions</h2>
 We left couple of things in the plain sight, realized and identified these wrong assumptions later.
