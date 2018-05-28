@@ -2,7 +2,7 @@ welcome to our third blog post in this blog post we would like to share our deve
 
 The system design is the core for development of the app. we are going to demonstrate the interation of the app and the user with the help UML diagrams of State chart and sequence diagram and then we would like to explain in detail with the class diagram about al1 the classes and other attributes involved in the app and the association of classes to each other
 
-Behavioral Diagram
+<h2>Behavioral Diagram</h2>
  With the help of the state chart diagram we can show the flow of information from one state to another. In the below diagram it shows the simple operation of entering a new activity in our application. 
 ![Deadline image]({{site.baseurl}}/images/st1.png "st1")
 In this diagram it shows that the user is authenticated after the valid pin or else he is given an option to retry or to exit the app.
@@ -10,12 +10,12 @@ when the user enters the valid pin he is directed to home screen whe the user ca
 
 In this below diagram it demonstrates the activity overview or the history
 ![Deadline image]({{site.baseurl}}/images/st2.png "st2")
-Interaction Diagram
+<h2>Interaction Diagram</h2>
 the sequence diagram 
 ![Deadline image]({{site.baseurl}}/images/sq1.png "sq1")
 ![Deadline image]({{site.baseurl}}/images/cl.png "cl")
 
-Design Pattern
+<h2>Design Pattern</h2>
 
 We are planning to use the facade design process also know as Structural Design Pattern.
 
