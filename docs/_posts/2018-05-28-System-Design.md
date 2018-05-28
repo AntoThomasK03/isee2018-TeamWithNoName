@@ -12,12 +12,13 @@ when the user enters the valid pin he is directed to home screen whe the user ca
 
 <h2>State chart for reviewing the history of activity</h2>
 
-In this below diagram it demonstrates the activity overview or the history. In this feature the user selects to review his hostory of activities and then the user have the freedom to select the activites which he want to view by filtering according to type of activity or category or month. Once is user is done with selction of his preferences then the user is given an option to view the datat in either format of text or a barchart representation which is much easier to understand.
+In the below diagram it demonstrates the activity overview or the history. In this feature the user selects to review his hostory of activities and then the user have the freedom to select the activites which he want to view by filtering according to type of activity or category or month. Once is user is done with selction of his preferences then the user is given an option to view the data in either format of text or a barchart representation which is much easier to understand.
 ![Deadline image]({{site.baseurl}}/images/st2.png "st2")
 
 <h2>Interaction Diagram</h2>
 <h2>Sequence diagram</h2> 
 ![Deadline image]({{site.baseurl}}/images/sq1.png "sq1")
+<h2>Class Diagram</h2>
 ![Deadline image]({{site.baseurl}}/images/cl.png "cl")
 
 <h2>Design Pattern</h2>
