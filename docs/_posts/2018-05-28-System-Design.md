@@ -19,4 +19,5 @@ the sequence diagram
 
 We are planning to use the facade design process also know as Structural Design Pattern.
 
+![Deadline image]({{site.baseurl}}/images/123456.png "123456")
 We choose this pattern because it hides the complexity of the code by providing an easy interface to the user that can access the whole system. A single class provides all the methods required by the user from the system. We choose this pattern after carefully studying it from the examples from the blog androidexample1 it was our refernce for the design pattern as we are new to the design patterns.
