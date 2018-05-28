@@ -6,4 +6,5 @@ The system design of is the core for the development of the app. we are going to
 ![Deadline image]({{site.baseurl}}/images/st1.png "st1")
 ![Deadline image]({{site.baseurl}}/images/st2.png "st2")
 ![Deadline image]({{site.baseurl}}/images/sq1.png "sq1")
+![Deadline image]({{site.baseurl}}/images/cl.png "cl")
 
