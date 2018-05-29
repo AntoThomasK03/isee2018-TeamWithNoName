@@ -75,6 +75,21 @@ The operations of the settings class are
 <br>•SetUserdetails : To edit the user details.
 
 <h3>History class</h3>
+History class attributes
+<br>•Activity start period : Stores the start pediod set by the user for overview.
+<br>•Activity end period : StoreS the activity end period set by the user for overvies.
+<br>•Activity : Stores the activity selected by the user for overview
+<br>•Activity Category : Store the activity category for overview.
+
+History class operations
+<br>•Get activity : Get the activity name from user
+<br>•Get category : get activity category from user
+<br>•Sortby colour : To sort and display by activity colour
+<br>•Sortby category : To sort and display by activity category
+<br>•sortby duration : To sort by duration of activity.
+<br>•sortby activity : To sort by activity type/name
+<br>•sortby month : To sort by month
+<br>•Get bar graph : To get bar graph for displaying activity overview from database.
 
 <h2>Design Pattern</h2>
 
