@@ -97,3 +97,7 @@ We are planning to use the facade design process also know as Structural Design 
 
 ![Deadline image]({{site.baseurl}}/images/123456.png "123456")
 We choose this pattern because it hides the complexity of the code by providing an easy interface to the user that can access the whole system. A single class provides all the methods required by the user from the system. We choose this pattern after carefully studying it from the examples from the blog androidexample1 it was our refernce for the design pattern as we are new to the design patterns.
+<h2>Development Strategy</h2>
+We are failed to use efficently the zenhub as this project main objective is to teach how to operate in gropu while working in an agile environment. But as for the rest of the development of this app we have decided to use the zenhub as efficently as possible.
+below is the plan for our next 3 sprints and a screen shot for the zenhub dashboard showing our strategy and deadlines for the tasks.
+![Deadline image]({{site.baseurl}}/images/spn.png "spn")
