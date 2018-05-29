@@ -20,7 +20,48 @@ In the below diagram it demonstrates the activity overview or the history. In th
 ![Deadline image]({{site.baseurl}}/images/sq1.png "sq1")
 <h2>Class Diagram</h2>
 ![Deadline image]({{site.baseurl}}/images/cl.png "cl")
+We have mapped our class diagram based on our use case scenario. We have identified the user, new activity, history, database, settings as our main classes.Here is the detailed description of each class their attributes, operation and association of classes as well.
 
+<h3>User class</h3>
+The user class consists of user name, PIN, email as the attributes which are essential for accessing the app although these can be disabled in the setting menu but more on that later.
+And the operation of the user class is to login which is done by verifying the pin through the database.
+<h3>New activity class</h3>
+The function of the new activity class is to enable the user to create a new activity and the attributes and the operations of the new activity class are as follows
+Activity name : It stores the name of the activty, data type is string.
+Activity category : It stores the type of activity which is acessed from category class, data type string.
+Activity date : It stores the date of the activity , datat type date.
+Activity time : It stores the user set time of the activity, datat type is long.
+Activity duration : It stores the duration of acctivity is carried out, data type isinteger.
+Activity repeat: It stores the repeated activities for autofilling, Data type is string.
+
+<h3>New activity class operations</h3>
+Get() : Gets all the valid data from the user for relavant attributes.
+Set() : Creates all the necessary attributes in the database.
+Custom() : Sets the custom category if required by the user.
+Autofill() : It autofiils the newactivity if the same activity is being repeated.
+
+<h3>Category class</h3>
+Category class shares the association with the new activity class as this class only purpose is to provide user with different categories. They are classified as professional and personal. They are to store the category as either professional or personal.
+But if the user choose to go for another category the custom attribute store that new category.
+The operations of the category class are to create and delete categories.
+
+<h3>Database class</h3>
+The operations of the database class are as follows,
+Create user : To create new user details in the datatbase.
+Delete user : To delete user details from the datatbase.
+Create activity : To create a a new activity entry in the datatbase for further accessing.
+Delete activity : To delete any existing activity.
+Verify PIN : To verify the PIN from datatbase when user tries to login.
+Get filter : To get the filter parameters from the user.
+Set filter : To set the filter parameters in the database.
+Sortby date : To acess the activities based on the date.
+Sortby category : To acess the activities based on category.
+Sortby activity : to acess the activity based on the activityname/type.
+History : To display overview of the activites when user requested.
+Repeat activity : To provide the function of autofilling when activity is repeated.
+Recover pin email : Used to send an email when requested for PIN recovery.
+Assingn colour : To assingn a colour based on type of category selected.
+Store bargraph : To save all data as bar graph for further reviewing.
 <h2>Design Pattern</h2>
 
 We are planning to use the facade design process also know as Structural Design Pattern.
