@@ -101,3 +101,8 @@ We choose this pattern because it hides the complexity of the code by providing 
 We are failed to use efficently the zenhub as this project main objective is to teach how to operate in gropu while working in an agile environment. But as for the rest of the development of this app we have decided to use the zenhub as efficently as possible.
 below is the plan for our next 3 sprints and a screen shot for the zenhub dashboard showing our strategy and deadlines for the tasks.
 ![Deadline image]({{site.baseurl}}/images/spn.png "spn")
+![Deadline image]({{site.baseurl}}/images/zh.png "zh")
+
+<h2>Summary of changes</h2>
+ 
+ As of now there are no major changes in the app functionality or customer requiremnts. the only notable feature is the user no longer have the freedom to set the colour the app automatically assing the colour for each category and same colour is assinged to a new activity if it is repeated.
