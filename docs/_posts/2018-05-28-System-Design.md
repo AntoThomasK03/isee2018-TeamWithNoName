@@ -15,9 +15,15 @@ when the user enters the valid pin he is directed to home screen whe the user ca
 In the below diagram it demonstrates the activity overview or the history. In this feature the user selects to review his hostory of activities and then the user have the freedom to select the activites which he want to view by filtering according to type of activity or category or month. Once is user is done with selction of his preferences then the user is given an option to view the data in either format of text or a barchart representation which is much easier to understand.
 ![Deadline image]({{site.baseurl}}/images/st2.png "st2")
 
-<h2>Interaction Diagram</h2>
 <h2>Sequence diagram</h2> 
+The below sequence diagram show the interaction of the app with the user in a step by step clear process for entering a new activity.
+<br>•the user authenticates with a valid pin and it is checked across the database and a reply mesage is sent back from the database wheter the authentication is successfull or not.
+<br>•Now the user enter a new activity by selcting a activity name its category, date of the activity, time of the activity.
+<br>• when the user submits the data the app assingns a valid colour and send the preview to the user.
+<br>• the user can confirm the data then the activity data is stored in the database.
+<br>•When the datat is saved successfully the reply message is sent to the user saying so.
 ![Deadline image]({{site.baseurl}}/images/sq1.png "sq1")
+
 <h2>Class Diagram</h2>
 ![Deadline image]({{site.baseurl}}/images/cl.png "cl")
 We have mapped our class diagram based on our use case scenario. We have identified the user, new activity, history, database, settings as our main classes.Here is the detailed description of each class their attributes, operation and association of classes as well.
