@@ -62,6 +62,20 @@ The operations of the database class are as follows,
 <br>•Recover pin email : Used to send an email when requested for PIN recovery.
 <br>•Assingn colour : To assingn a colour based on type of category selected.
 <br>•Store bargraph : To save all data as bar graph for further reviewing.
+
+<h3>Settings class</h3>
+The attributes of the setting class are
+<br>•PIN : Stores the PIN set by user
+<br>•User details : Stores the user information.
+<br>•Export/Import data : Stores the data required for exporting and importing.
+
+The operations of the settings class are
+<br>•SetPIN : To set or edit PIN.
+<br>•Export/Import data : To export or import data via email or to another android device.
+<br>•SetUserdetails : To edit the user details.
+
+<h3>History class</h3>
+
 <h2>Design Pattern</h2>
 
 We are planning to use the facade design process also know as Structural Design Pattern.
