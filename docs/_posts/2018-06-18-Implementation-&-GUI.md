@@ -1,4 +1,4 @@
-<h2>Code Convections<\h2>
+<h2>Code Convections</h2>
 
 <br>Naming Conventions
  1. Classes:
