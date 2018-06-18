@@ -17,21 +17,21 @@ Methods in Java also follow the same lowerCamelCase convention like Objects and 
    
    
 <h2>Commenting onvections</h2>
- <h3>1.Single-Line Comments</h3>
+ <h4>1.Single-Line Comments</h4>
 Short comments can appear on a single line indented to the level of the code that follows. If a
 comment can’t be written in a single line, it should follow the block comment format. A single-line comment should be preceded by a blank line. Here’s an example
 <br>if (condition) {
 <br> /* Handle the condition. */
 <br>...
 <br>}
-<h3>2.Trailing Comments</h3>
+<h4>2.Trailing Comments</h4>
 Very short comments can appear on the same line as the code they describe, Here is an example for trailing comment
 <br>if (a == 2) {
 <br> return TRUE; /* special case */
 <br>} else {
 <br> return isprime(a); /* works only for odd a */
 <br>}
-<h3>3.End-Of-Line Comments</h3>
+<h4>3.End-Of-Line Comments</h4>
 The // comment delimiter begins a comment that continues to the newline. It can comment
 out a complete line or only a partial line. Examples of all three styles follow:
 
