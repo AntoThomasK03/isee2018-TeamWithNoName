@@ -5,12 +5,11 @@ Class names always begin with a capital letter (eg. java.util.Scanner). And if t
 Eg: class MyClass {
     }
  2. Objects/Variables:
-
 Java Naming convention specifies that instances and other variables must start with lowercase and if there are multiple words in the name, then you need to use Uppercase for starting letters for the words except for the starting word. This is called as lowerCamelCase.
 Eg:String myName;
    MyClass myObject;
    Scanner scannerObject = new Scanner(System.in);
-  3. Methods:
+ 3. Methods:
 Methods in Java also follow the same lowerCamelCase convention like Objects and variables.
 Eg:void myMethod() {
    }
