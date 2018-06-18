@@ -1,4 +1,5 @@
 <h2>Code Convections<\h2>
+
 <br>Naming Conventions
  1. Classes:
 Class names always begin with a capital letter (eg. java.util.Scanner). And if there are mutiple words in the class name then each word must also begin with a capital letter (eg. java.util.GregorianCalendar). Also package names always start with lowercase characters (util, lang, io, etc). And if there are multiple words in the package name, then you need to use uppercase for all words except for the starting word. This naming method is popularly called as UpperCamelCase which is a type of CamelCase! Interfaces also use same convention.
