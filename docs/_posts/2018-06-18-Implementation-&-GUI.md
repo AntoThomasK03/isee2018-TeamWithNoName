@@ -47,6 +47,8 @@ out a complete line or only a partial line. Examples of all three styles follow:
 
 
 ![Deadline image]({{site.baseurl}}/images/login.png "login")
+![Deadline image]({{site.baseurl}}/images/H1.png "H1")![Deadline image]({{site.baseurl}}/images/H2.png "H2")
+![Deadline image]({{site.baseurl}}/images/H3.png "H3")![Deadline image]({{site.baseurl}}/images/H4.png "H4")
 
 ![Deadline image]({{site.baseurl}}/images/GUI.png "GUI")
 
