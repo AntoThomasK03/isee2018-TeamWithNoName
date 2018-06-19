@@ -45,10 +45,22 @@ out a complete line or only a partial line. Examples of all three styles follow:
  <br>...
 <br>}
 
-
+<h2>User Interface</h2>
+Here is the mockup of GUI of our app.
+<br>The login screen has the PIN and option to recover PIN
 ![Deadline image]({{site.baseurl}}/images/H.png "H")
-![Deadline image]({{site.baseurl}}/images/H1.png "H1")![Deadline image]({{site.baseurl}}/images/H2.png "H2")
-![Deadline image]({{site.baseurl}}/images/H3.png "H3")![Deadline image]({{site.baseurl}}/images/H4.png "H4")
+<br>Home screen of the App
+![Deadline image]({{site.baseurl}}/images/H1.png "H1")
+<br>New activity screen![Deadline image]({{site.baseurl}}/images/H2.png "H2")
+<br>History screen![Deadline image]({{site.baseurl}}/images/H3.png "H3")
+<br>Setting screen![Deadline image]({{site.baseurl}}/images/H4.png "H4")
+
+
+Here is the Overview of the app functionality
+<br>The top left is the the student enterning  a new activity.
+<br>The top right is the user checking his history for the past 7 days.
+<br>The bottom left is the settings options.
+<br>The bottom right is the athelete setting and tracking his goals.
 
 ![Deadline image]({{site.baseurl}}/images/GUI.png "GUI")
 
