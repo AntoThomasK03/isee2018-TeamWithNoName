@@ -58,7 +58,7 @@ We cam eup with two potential user who could use the app.
 <br>Name: Sharath
 <br>Profession : IT Employee
 <br>Employment Status : Full time
-<br>Purpose of using app: Sharat have a fixed schedule for his job but Sharath want to   goals for his soprts activity and leisure time. So Sarath an set goals in goals option of the app and can keep track of them.
+<br>Purpose of using app: Sharat have a fixed schedule for his job but Sharath want to set goals for his soprts activity and leisure time. So Sarath an set goals in goals option of the app and can keep track of them.
 <h2>User Interface</h2>
 Here is the mockup of GUI of our app.
 <br>The login screen has the PIN and option to recover PIN
