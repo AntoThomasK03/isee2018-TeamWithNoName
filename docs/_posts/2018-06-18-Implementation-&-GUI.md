@@ -54,4 +54,4 @@ out a complete line or only a partial line. Examples of all three styles follow:
 
   
 
-![Deadline image]({{site.baseurl}}/images/history.png "history")
+
