@@ -48,12 +48,15 @@ out a complete line or only a partial line. Examples of all three styles follow:
 <h2>User Interface</h2>
 Here is the mockup of GUI of our app.
 <br>The login screen has the PIN and option to recover PIN
-![Deadline image]({{site.baseurl}}/images/H.png "H")
-<br>Home screen of the App
-![Deadline image]({{site.baseurl}}/images/H1.png "H1")
-<br>New activity screen![Deadline image]({{site.baseurl}}/images/H2.png "H2")
-<br>History screen![Deadline image]({{site.baseurl}}/images/H3.png "H3")
-<br>Setting screen![Deadline image]({{site.baseurl}}/images/H4.png "H4")
+<br>![Deadline image]({{site.baseurl}}/images/H.png "H")
+<br>Home screen of the App. From here the user navigates to adding a new activity, Reviewing his history of activities, Sending his report via email, Setting up goals or can navigate to settings for more options.
+<br>![Deadline image]({{site.baseurl}}/images/H1.png "H1")
+<br>New activity screen. Here the user can add the new activty by selecting the date from pop up calendar and then giving duration of time. Next naming the activity and selecting the category if it is acustom category the user can add the name of the activity. The at last the user selects the colour.
+<br>![Deadline image]({{site.baseurl}}/images/H2.png "H2")
+<br>History screen. Here the user have the freedom to choose the data to be displayed by sorting by days or category or time spent or by name. And the data can be displayed either in text or pie chart format the user can select whichever is convenient.
+<br>![Deadline image]({{site.baseurl}}/images/H3.png "H3")
+<br>Settings screen. Here the user can manage profile and the PIN can be changed or turned off for unrestricted access. The category options lets the user to further refine the category class and colours for displaying in the chart.
+<br>![Deadline image]({{site.baseurl}}/images/H4.png "H4")
 
 
 Here is the Overview of the app functionality
@@ -62,7 +65,7 @@ Here is the Overview of the app functionality
 <br>The bottom left is the settings options.
 <br>The bottom right is the athelete setting and tracking his goals.
 
-![Deadline image]({{site.baseurl}}/images/GUI.png "GUI")
+<br>![Deadline image]({{site.baseurl}}/images/GUI.png "GUI")
 
   
 
