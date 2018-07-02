@@ -14,4 +14,4 @@ Black-box testing is a method of software testing that examines the functionalit
 <br>•  Integration Testing
 <br>•  System Testing
 <br>•  Acceptance Testing
-isee2018-TeamWithNoName/docs/images/black-box-testing.png
+![Deadline image]({{site.baseurl}}/images/black-box-testing.png"Black Box Testing")
