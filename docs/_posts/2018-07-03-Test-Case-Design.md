@@ -19,3 +19,10 @@ Black-box testing is a method of software testing that examines the functionalit
 ![Deadline image]({{site.baseurl}}/images/black-box-testing.png "Black Box Testing")
 
 
+<br>We chose five components / classes for white box testing and five functional requirements for black box testing. The five components were.
+<br> Entering 'PIN'
+<br> Creating 'New Activity'
+<br> START Time
+<br> END Time
+<br> Additional Notes
+
