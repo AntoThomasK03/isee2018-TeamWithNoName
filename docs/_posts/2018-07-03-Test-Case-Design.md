@@ -33,5 +33,5 @@ Black-box testing is a method of software testing that examines the functionalit
 <h3>Entering Pin</h3>
 Here, User opens the TimeTracker application, he/she finds an open page with enter pin option. User should enter the security pin to enter the app. Incase of wrong pin entry, the application will revert the user back to the first page.
 
-![Deadline image]({{site.baseurl}}/images/Enter Pin.png "Entering Pin")
+![Deadline image]({{site.baseurl}}/images/EnterPin.png "Entering Pin")
 
