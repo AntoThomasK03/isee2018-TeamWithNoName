@@ -35,3 +35,5 @@ Here, User opens the TimeTracker application, he/she finds an open page with ent
 
 ![Deadline image]({{site.baseurl}}/images/EnterPin.png "Entering Pin")
 
+<h3>Creating New Activity</h3>
+
