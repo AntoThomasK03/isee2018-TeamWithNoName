@@ -24,10 +24,22 @@ Black-box testing is a method of software testing that examines the functionalit
 
 <br>We chose five components / classes for white box testing and five functional requirements for black box testing. The five components were.
 <br>• Entering 'PIN'
-<br>• Creating 'New Activity'
-<br>• START Time
-<br>• END Time
-<br>• Additional Notes
+<br>• Entering New activity name and category
+<br>• Selecting date and time
+<br>• Navigating between screens
+<br>• Selecting colour
+<br>• Saving Data
+
+<br>• In the first test we enetr the correct PIN once and thw wrong PIN once.When we enter the correct PIN it is expected to go to home screen of App. and when we enter the wrong PIN it is expected to show the retry text.
+<br>• In the second test when we click on different buttons in the homescreen we expect it to take it to the respective activity/screens.
+<br>•In the third test we should be able to earase default name and category and enter our own.
+<br>•In test four when we click on date a date picker should be open by default todays date. And when click on time a time picker shoulb be open and by default display current time.
+<br>•In the fifth test when color button is clicked the colour picker should be open upon accepting the background colour should be changed.
+<br>•In the final test when accept button is clicked the datat should be saved to database and should display text activity saved.
+
+<br>•Here are the results.
+![Deadline image]({{site.baseurl}}/images/bt1.png "bt1")
+![Deadline image]({{site.baseurl}}/images/bt2.png "bt2")
 
 <h2>White Box Testing</h2>
 <h3>Entering Pin</h3>
