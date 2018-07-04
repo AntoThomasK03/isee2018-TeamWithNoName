@@ -42,13 +42,28 @@ Black-box testing is a method of software testing that examines the functionalit
 ![Deadline image]({{site.baseurl}}/images/bt2.PNG "bt2")
 
 <h2>White Box Testing</h2>
-<h3>Entering Pin</h3>
-Here, User opens the TimeTracker application, he/she finds an open page with enter pin option. User should enter the security pin to enter the app. Incase of wrong pin entry, the application will revert the user back to the first page.
+<br>• Unfortunately we ran into some issues and had to start the app all over so we have done some simple white-box testing insted of an extensive testing for database.
+<br>•We have done for
+<br>•Date Picker
+<br>•Time Picker
+<br>•Color Picker
+<br>•Database activity saving
 
-![Deadline image]({{site.baseurl}}/images/EnterPin.png "Entering Pin")
+<h3>Date Picker</h3>
+![Deadline image]({{site.baseurl}}/images/dp.PNG "dp")
+While the user  clicks on the date the code executes in the order above and stores the string value in the the textview with id textviewdate. Upon calling the datepicker it get the calendar from device default and gets the year, month and day of the month as specified in code.
+<h3>Time Picker</h3>
+![Deadline image]({{site.baseurl}}/images/tp.PNG "tp")
+When the time picker is selcted the code imports the java class TimePickerFragment and by default it gets the hour of the day and minute as specified and the selected time is stored in the Timepicker1 with id textviewstime.
+<h3>Colour Picker</h3>
+![Deadline image]({{site.baseurl}}/images/tp.PNG "tp")
+We have imported a library from github for the colour picker upon calling the colour picker the code imports the necessary library and executes steps from 120 to 134.
+<h3>Database activity saving</h3>
+<br>•23
+<br>•36-47 this path shows the database activtiy in the main activity.
+![Deadline image]({{site.baseurl}}/images/db1.PNG "db1")
+![Deadline image]({{site.baseurl}}/images/db2.PNG "db2")
 
-<h3>Creating New Activity</h3>
-<h3>Start Time</h3>
-<h3>End Time</h3>
-<h3>Additional Notes</h3>
+
+
 
