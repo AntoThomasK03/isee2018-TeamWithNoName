@@ -38,8 +38,8 @@ Black-box testing is a method of software testing that examines the functionalit
 <br>•In the final test when accept button is clicked the datat should be saved to database and should display text activity saved.
 
 <br>•Here are the results.
-![Deadline image]({{site.baseurl}}/images/bt1.png "bt1")
-![Deadline image]({{site.baseurl}}/images/bt2.png "bt2")
+![Deadline image]({{site.baseurl}}/images/bt1.PNG "bt1")
+![Deadline image]({{site.baseurl}}/images/bt2.PNG "bt2")
 
 <h2>White Box Testing</h2>
 <h3>Entering Pin</h3>
