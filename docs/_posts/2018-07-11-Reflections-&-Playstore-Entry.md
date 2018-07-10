@@ -12,4 +12,8 @@ When we think that the decisions we make at the time of development are not up t
 <br>• Memory consumption
 <br>• Data security
 <br>• It is the dream of every developer to make their apps as explanatory as possible. But what is simple to the developer may not be so for the user.
+<h2>Team Challenges</h2>
+Coordination represent time and energy that group work consumes that individual work does, including the time it takes to coordinate schedules, arrange meetings, meet, correspond, make decisions collectively, integrate the contributions of group members, etc. The time spent on each of these tasks may not be great, but together they are significant. Coordination can’t be eliminated, nor should they be: after all, coordinating the efforts of our team members is an important skill. However, if coordination costs are excessive or are not factored into the structure of group assignments, groups tend to miss deadlines, their work is poorly integrated, motivation suffers, and creativity declines.
+<br>Even though a team works together to achieve a goal, each person needs to know his specific role within the team. Otherwise, role confusion results. When team members lack an understanding of their specific roles or choose not to follow through with their roles, the team cannot develop as a cohesive and well-functioning unit.
+<br>My team struggled to get everything done. It’s something I’ve seen over and over again, in my team and in others. With limited resources it’s hard to fit all the work in.
 
