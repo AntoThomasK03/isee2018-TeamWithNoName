@@ -1,5 +1,10 @@
 <h2>About TimeTracker</h2>
 Now, we are into final stage of our course app "TimeTracker". In this blog we are share our experiences and challenges faced while developing this app. As it is said nothing comes without a challenge, same goes to mobile development. There are many technical challenges developers face when making mobile apps for the enterprise. The major challenges and their possible solutions are essential to identify so as smooth mobile development process could be possible.
+
+<h2>About TimeTracker</h2>
+[https://drive.google.com/open?id=1x35qPlKCUn5MzdIn6pQBQ9_QTNB4gweK]
+
+Here is the link for for app
 <h2>Techincal Challenges</h2>
 To compete with the already existing and established big giants in app development, you need to come up with innovative technologies and dynamic applications that help you play smartly and quickly than your competitors.In the competitive world of Mobile applications, there are various challenges faced on the Technical front. Over coming the Challenges in an appropriate manner leads to the development of a successful application.  
 <br>• Gathering the requirements from the customer, wehave the necessary part to create consumer articles with a thorough knowledge of our technology and knowledge.Since the requirements are sorted and satisfied with customer requirements, designing the next working system, it's a very complicated process because there is no idea how to do, so we have divided our work, within the given time frame.We do not know what development strategies are and how to implement it. Then we should write code and the Android platform is completely new to us, no one of our team members has experience in developing an app on Android. Hence the main challenge is to understand the Android ecosystem and work around it. As a team we have never worked in a programming language with JAVA for creating an Android app. We started by knowning the Android studio which is a taskbank and has all the tools one needs to ever create an Android application. 
