@@ -1,8 +1,10 @@
 <h2>About TimeTracker</h2>
 Now, we are into the final stage of our course app "TimeTracker". In this blog we share our experiences and challenges faced while developing this app. As it is said nothing comes without a challenge, same goes for mobile development. There are many technical challenges developers face when making mobile apps for the enterprise. The major challenges and their possible solutions are essential to identify so as smooth mobile development process could be possible.
 
-<h2>About TimeTracker</h2>
+
 [app link]: https://drive.google.com/open?id=1x35qPlKCUn5MzdIn6pQBQ9_QTNB4gweK
+
+[https://drive.google.com/open?id=1x35qPlKCUn5MzdIn6pQBQ9_QTNB4gweK]
 
 
 <h2>Techincal Challenges</h2>
